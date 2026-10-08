@@ -6,11 +6,29 @@
 • Limits: You can add up to 30 tags per blog post, and each tag has a 50-character limit.
 =====
 
-the difference.
+1a. the difference.
+
+In Wix, categories are broad, primary groupings used to structure your core content or products, while tags are granular, specific labels used for detailed filtering and cross-referencing.
+
+Key Differences in Wix
+
+• Purpose and Scope
+	• Categories: Act as the main directory or section for your items (e.g., Footwear in a store, or Tech on a blog). They define what an item is fundamentally about.
+	• Tags: Act as specific keywords or attributes (e.g., sale, summer, vegan, wireless) that let visitors filter and find related content across different categories.
+• URLs and SEO
+	• Categories: Have dedicated, indexable landing page URLs (such as ://sitename.com) that search engines can crawl to understand your site structure and boost SEO.
+	• Tags: Open a separate tag feed page (such as www.sitename.com/blog/tags/tag-title) that lists matching posts, though they serve a more functional filtering role rather than acting as primary SEO landing pages.
+• Assignment Limits
+	• Blog Categories: A blog post can usually be assigned up to 10 categories.
+	• Blog Tags: You can assign up to 30 tags per blog post (with up to 4,000 total tags per site).
+• Navigation and Display
+	• Categories: Usually featured prominently in your main site menus, shop drop-downs, or header sections.
+	• Tags: Often displayed in a tag cloud, a filter sidebar, or at the bottom of a post/product page for quick-clicking.
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-plan work our way to the bottom number and date the ones we didnt know, delete the ones we already did
+-Prompt:
+--Plan work our way to the bottom number and date the ones we didnt know, delete the ones we already did
 
 Core Web Development Terms
 
