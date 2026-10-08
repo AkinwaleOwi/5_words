@@ -1,1 +1,176 @@
 
+0. wix - category = categories have their own pages + only 10 allowed on blog posts but other type of post unlimited.
+
+1.wix - tag = In the Wix Blog, a tag is a text label used to sort, filter, and categorize your blog posts. Unlike categories (which group broader topics), tags act as sub-labels or keywords.
+• Example: On a food blog, the category might be Recipes, while the tags could be vegan, gluten-free, or dessert.
+• Limits: You can add up to 30 tags per blog post, and each tag has a 50-character limit.
+=====
+
+the difference.
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+plan work our way to the bottom number and date the ones we didnt know, delete the ones we already did
+
+Core Web Development Terms
+
+HTML — The structure and content of a webpage.
+CSS — Controls styling, layout, colors, spacing, typography, etc.
+JavaScript — Adds behavior and interactivity to websites.
+DOM (Document Object Model) — The browser’s representation of a webpage that JavaScript can interact with.
+Responsive Design — Designing a site so it works well across different screen sizes.
+Viewport — The visible area of a webpage on a device.
+Breakpoint — A screen-width threshold where a layout changes.
+Flexbox — A CSS layout system for arranging elements.
+Grid — A layout system based on rows and columns.
+Semantic HTML — Using meaningful HTML elements such as <header>, <nav>, <main>, and <footer>.
+Accessibility (a11y) — Making websites usable by people with disabilities.
+SEO — Optimizing a website so it can perform better in search engines.
+Meta Tags — Information about a page used by search engines and browsers.
+Canonical URL — Identifies the preferred version of a URL to search engines.
+Favicon — The small icon associated with a website/page in browser tabs.
+Wix-Specific Terms
+Wix Editor — Wix's visual website-building environment.
+Wix Studio — Wix's professional web development platform for more advanced design and responsive control.
+Velo by Wix — Wix's development environment for adding JavaScript-based functionality.
+Wix CMS — Wix's content management system for storing and displaying structured content.
+CMS Collection — A database-like collection containing structured website content.
+Dataset — A Wix element that connects page elements to CMS collection data.
+Dynamic Page — A page whose content is generated from CMS data rather than being manually created for each item.
+Dynamic URL — A URL generated from CMS data, often containing an item's slug.
+Repeater — A Wix element that displays multiple items using the same layout.
+Wix App Market — Marketplace for adding apps and functionality to Wix sites.
+Wix Dashboard — The administrative area where site owners manage settings, content, analytics, products, etc.
+Site Members — Wix functionality for user accounts and member-only areas.
+Roles & Permissions — Controls determining who can access or modify certain content.
+Wix Forms — Tools for collecting information from website visitors.
+Wix Stores — Wix's ecommerce functionality.
+Wix Bookings — Tools for appointments, services, classes, and scheduling.
+Wix Events — Tools for creating and managing events.
+Wix Automations — Rules that trigger actions based on events or conditions.
+Wix Analytics — Tools for measuring website traffic and visitor behavior.
+Velo / Coding Terms
+Frontend — Code and functionality that runs in the visitor's browser.
+Backend — Server-side code that runs away from the visitor's browser.
+API — A way for different software systems to communicate.
+REST API — An API architecture commonly used for exchanging data over HTTP.
+Endpoint — A specific URL through which an API provides functionality or data.
+HTTP Request — A request sent between a client and server.
+GET — HTTP method generally used to retrieve data.
+POST — HTTP method generally used to submit or create data.
+JSON — A common format for exchanging structured data.
+Promise — A JavaScript object representing an operation that may complete in the future.
+Async/Await — JavaScript syntax for working with asynchronous operations.
+Event Handler — Code that runs in response to something happening, such as a click.
+Function — A reusable block of code.
+Variable — A named value that can be stored and manipulated.
+Array — A JavaScript structure used to store multiple values.
+Object — A JavaScript structure containing properties and values.
+Scope — Determines where a variable or function can be accessed.
+Import / Export — Mechanisms for sharing code between JavaScript modules.
+Module — A reusable piece of code that can be imported into another file.
+Console — A browser/development tool used to inspect output and errors.
+Debugging — Finding and fixing problems in code.
+Wix CMS & Data Terms
+Collection — A structured set of CMS records.
+Field — A specific type of data stored in a collection.
+Item / Record — One individual entry in a collection.
+Reference Field — A field that connects one CMS collection to another.
+Multi-Reference Field — Allows an item to be associated with multiple items from another collection.
+Query — A request for specific data from a collection or API.
+Filter — Restricts which records are returned.
+Sort — Determines the order in which records appear.
+Pagination — Splitting a large set of results into smaller pages.
+CRUD — Create, Read, Update, Delete — the four basic data operations.
+Permissions — Rules controlling who can read, create, update, or delete CMS data.
+Data Hook — Velo code that runs automatically during certain CMS data operations.
+wixData — Velo API used to work with Wix CMS data.
+Website Architecture Terms
+Header — The top section of a webpage, commonly containing navigation and branding.
+Navigation / Navbar — Links used to move around a website.
+Footer — The bottom section of a webpage.
+Landing Page — A page designed around a specific marketing or conversion goal.
+404 Page — The page shown when a requested URL doesn't exist.
+Slug — The readable portion of a URL identifying a specific page/content item.
+URL Structure — The organization and format of website URLs.
+Sitemap — A file/list describing pages that search engines can discover.
+301 Redirect — A permanent redirect from one URL to another.
+Breadcrumbs — Navigation showing where a user is within a site's hierarchy.
+CTA (Call to Action) — An element encouraging the visitor to take an action.
+Conversion — A desired visitor action, such as submitting a form or making a purchase.
+Performance Terms
+Page Load Time — How long a page takes to load.
+Core Web Vitals — Google's metrics for evaluating aspects of real-world page experience.
+LCP (Largest Contentful Paint) — Measures how quickly the main content becomes visible.
+INP (Interaction to Next Paint) — Measures responsiveness to user interactions.
+CLS (Cumulative Layout Shift) — Measures unexpected movement of page content.
+Lazy Loading — Loading resources only when they're needed.
+Image Optimization — Reducing image size while maintaining acceptable quality.
+Caching — Storing resources temporarily so they can be delivered faster.
+Minification — Removing unnecessary characters from code to reduce file size.
+CDN (Content Delivery Network) — A distributed network that delivers website resources from locations closer to users.
+SEO Terms Every Wix Developer Should Know
+Keyword — A search term users enter into a search engine.
+Search Intent — The reason behind a user's search.
+Title Tag — The title associated with a webpage in search results and browser contexts.
+Meta Description — A description of a page that may appear in search results.
+Heading Hierarchy — Proper use of H1, H2, H3, etc.
+Alt Text — Text describing an image, primarily for accessibility and image context.
+Internal Link — A link from one page on a website to another page on the same website.
+Backlink — A link from another website to your website.
+Schema Markup / Structured Data — Machine-readable information that helps search engines understand page content.
+Indexing — The process by which search engines store and potentially retrieve webpages.
+Crawling — The process search engines use to discover and inspect webpages.
+Robots.txt — Instructions that can influence how search-engine crawlers access a site.
+Search Console — Google's tool for monitoring a site's presence in Google Search.
+Professional Terms Worth Knowing
+Wireframe — A basic visual blueprint of a webpage.
+UI (User Interface) — The visual elements people interact with.
+UX (User Experience) — The overall experience of using a website.
+Design System — A reusable set of design rules and components.
+Component — A reusable UI element or group of elements.
+Template — A reusable starting structure for a website or page.
+Client Requirements — The functionality and design requirements provided by a client.
+Scope Creep — Additional work that gradually gets added beyond the original project scope.
+QA (Quality Assurance) — Testing a website before launch.
+Staging Site — A non-public environment used for testing.
+Production Site — The live version of a website.
+Deployment — Publishing code or changes to a live environment.
+Version Control — Tracking changes to code over time.
+Git — A widely used version-control system.
+Repository (Repo) — A location where code and its history are stored.
+Third-Party Integration — Connecting Wix to an external service or platform.
+Webhook — A mechanism that allows one service to notify another when an event occurs.
+Authentication — Verifying who a user is.
+Authorization — Determining what an authenticated user is allowed to do.
+The 20 I'd learn first
+If you're specifically trying to become job-ready as a Wix developer, prioritize these:
+
+Wix Studio
+Velo
+Wix CMS
+Collections
+Datasets
+Dynamic Pages
+Repeaters
+JavaScript
+APIs
+JSON
+Async/Await
+Backend vs. frontend
+CRUD
+Reference fields
+Permissions
+Responsive design
+SEO
+Accessibility
+Webhooks
+Debugging
+These terms cover a large portion of the vocabulary you'll encounter when building custom, CMS-driven, API-connected Wix sites, rather than just designing basic pages.
+
+
+ChatGPT is AI and can make mistakes.
+
+No file chosenNo file chosenNo file chosen
+
+Chat with ChatGPT
